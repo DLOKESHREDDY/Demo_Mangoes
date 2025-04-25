@@ -1,0 +1,2 @@
+Key: VITE_RAZORPAY_KEY
+Value: rzp_live_FTXmt9EmjJpyPs
